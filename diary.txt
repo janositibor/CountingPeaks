@@ -1,0 +1,18 @@
+Please, define parameters for RAW data!
+ 
+Please, define RAW data!
+You selected: D:\Matlab\csucsszamlalas\actual\data\Tibornak.dat
+ 
+Choose peak direction!
+It will search for NEGATIVE peaks!
+ 
+Please, define the file with previously found peaks!
+If you choose "Cancel" the program will search for them automatically.
+ 
+Now you can adjust the selected peaks!
+  - In order to add one press "SPACE"
+  - In order to remove press "DEL"
+  - You can use the magnification tools, available on the toolbar.
+  - Press "ESC" before you close the figure window!
+ 
+Selected peaks were written into: D:\Matlab\csucsszamlalas\actual\data\output_Tibornak.txt !
