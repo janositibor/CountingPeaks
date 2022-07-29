@@ -1,7 +1,4 @@
- 
-Szia Gergő!
-
-Éjszaka arra gondoltam, nem biztos, hogy magától értetődő és nem emlékeztem rá, hogy elmondtam-e ezért a biztonság kedvéért pár sorban összefoglalom.
+Nem biztos, hogy magától értetődő, ezért a biztonság kedvéért pár sorban összefoglalom.
 
 1.lépés: nyers adatsor beolvasása "filename.dat".
 
