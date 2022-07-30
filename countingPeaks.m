@@ -1,4 +1,4 @@
-function csucsszamlalas()
+function countingPeaks()
 	%rng default % for reproducibility
 	%rng % for random
 	close all; %close all figures 

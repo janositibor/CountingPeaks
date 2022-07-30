@@ -1,18 +1,27 @@
 Please, define parameters for RAW data!
- 
-Please, define RAW data!
-You selected: D:\Matlab\csucsszamlalas\actual\data\Tibornak.dat
- 
-Choose peak direction!
-It will search for NEGATIVE peaks!
- 
-Please, define the file with previously found peaks!
-If you choose "Cancel" the program will search for them automatically.
- 
-Now you can adjust the selected peaks!
-  - In order to add one press "SPACE"
-  - In order to remove press "DEL"
-  - You can use the magnification tools, available on the toolbar.
-  - Press "ESC" before you close the figure window!
- 
-Selected peaks were written into: D:\Matlab\csucsszamlalas\actual\data\output_Tibornak.txt !
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('csucsszamlalas', 'D:\MATLAB\csucsszamlalas\actual\csucsszamlalas.m', 31)" style="font-weight:bold">csucsszamlalas</a> (<a href="matlab: opentoline('D:\MATLAB\csucsszamlalas\actual\csucsszamlalas.m',31,0)">line 31</a>)
+	LinesToSkip=str2num(answer{1});
+} 
+countingPeaks
+{Undefined function or variable 'countingPeaks'.
+} 
+countingPeaks
+{Undefined function or variable 'countingPeaks'.
+} 
+countingPeaks countingPeaks 
+{Undefined function or variable 'countingPeaks'.
+} 
+countingPeaks  countingPeaks 
+{Undefined function or variable 'countingPeaks'.
+} 
+countingPeaks
+{Undefined function or variable 'countingPeaks'.
+} 
+countingPeaks countingPeaks   countingPeaks 
+{Undefined function or variable 'countingPeaks'.
+} 
+countingPeaks
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('countingPeaks', 'D:\MATLAB\csucsszamlalas\actual\countingPeaks.m', 11)" style="font-weight:bold">countingPeaks</a> (<a href="matlab: opentoline('D:\MATLAB\csucsszamlalas\actual\countingPeaks.m',11,0)">line 11</a>)] 

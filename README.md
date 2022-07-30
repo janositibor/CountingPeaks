@@ -1,5 +1,7 @@
 # CountingPeaks
-Matlab script fpr counting peaks in electrophysiological recording
+Matlab script for counting peaks in electrophysiological recording
+
+![Input fields to define params](/info/01-DefineParams.png)
 
 Nem biztos, hogy magától értetődő, ezért a biztonság kedvéért pár sorban összefoglalom.
 
