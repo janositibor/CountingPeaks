@@ -9,22 +9,38 @@ Matlab script for counting peaks in electrophysiological recording
 
 03. Browse input file to process
 
-![Input fields to define params](/info/02-ChooseInputFile.png)
+![Browse input file](/info/02-ChooseInputFile.png)
 
-Nem biztos, hogy magától értetődő, ezért a biztonság kedvéért pár sorban összefoglalom.
+04. Define the direction of peaks
 
-1.lépés: nyers adatsor beolvasása "filename.dat".
+![Define peaks direction](/info/03-DefinePeaksDirection.png)
 
-2.lépés: korábban megszámlált csúcsok beolvasása "output_filename.txt". Ha itt "Mégse"-t választasz, akkor elvégzi az automatikus csúcskijelölést.
+05. Browse for previous results/output
 
-3.lépés: kattints a "ZoomIn" ikonra és válaszd ki, hogy milyen nagyításban tudsz jól dolgozni az adatokkal. Ha túltoltad használd a "ZoomOut"-ot!
+![Browse previous results](/info/04-ChoosePreviousOutputFile.png)
 
-4.lépés: válts vissza a "hand" kurzorra. Így végig tudsz görgetni a felvételen.
+With this option you can continue previous session.
+If you push "Cancel" automatic peak detection will be carried out.
 
-5.lépés: csúcs hozzáadáas: vidd a kurzort egy tetszőleges helyre és nyomj "space"-t
+05. The figure shows the raw data and the peaks found
 
-6.lépés: csúcs törlése: vidd a kurzort a törlendő csúcs közelébe (nyilván nem kell pont rá) és nyomj egy "Delete"-t
+![Peaks found](/info/05-FoundPeaks.png)
 
-7.lépés: "Esc" gomb megnyomásával menti a jelölt csúcsokat ugyanabban a könyvtárban "output_filename.txt" néven. Ezután bezárhatod a grafikont!
+06. You can find the Zoom In and Zoom Out tool to find the proper magnification
 
-Hirtelen ennyi, ha nem világos szólj! 
+![Zoom In](/info/06-ZoomIn.png)
+
+07. With the Pan tool you can scroll the data
+
+![Pan](/info/07-Pan.png)
+
+08. Add peak:
+Place the red indicator on the peak (by moving the cursor) and press the "Space" button. 
+
+09. Remove peak:
+Place the red indicator in the peak's neighbourhood and press the "Delete" button. 
+
+10. Save result by pressing "Esc" button.
+The output file will be saved into the same directory and the name will be "output_TheNameOfTheInputFile.txt"
+
+11. After saving you can close the figure.
