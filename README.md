@@ -4,8 +4,11 @@ Matlab script for counting peaks in electrophysiological recording
 
 01. Run the script countingPeaks.m in Matlab
 02. Define basic parameters for the input file
+
 ![Input fields to define params](/info/01-DefineParams.png)
+
 03. Browse input file to process
+
 ![Input fields to define params](/info/02-ChooseInputFile.png)
 
 Nem biztos, hogy magától értetődő, ezért a biztonság kedvéért pár sorban összefoglalom.
